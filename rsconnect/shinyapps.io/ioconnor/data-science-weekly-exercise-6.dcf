@@ -1,0 +1,14 @@
+name: data-science-weekly-exercise-6
+title: data-science-weekly-exercise-6
+username:
+account: ioconnor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4330933
+bundleId: 4766416
+url: https://ioconnor.shinyapps.io/data-science-weekly-exercise-6/
+when: 1624919007.0352
+lastSyncTime: 1624919007.03521
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 06_exercises.Rmd|2020_harvest.csv|Groceries_dataset.csv|README.md
